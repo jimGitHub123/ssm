@@ -1,0 +1,4 @@
+package cn.jim.service;
+public interface PersonService {
+public void save();
+}

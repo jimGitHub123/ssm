@@ -1,0 +1,10 @@
+package com.jim.bean;
+
+import java.sql.Date;
+
+public class UserInfo {
+     private    String    name;
+     private    char      sex;
+     private    Date      date;
+     
+}

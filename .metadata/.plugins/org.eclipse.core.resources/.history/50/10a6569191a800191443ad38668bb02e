@@ -1,0 +1,11 @@
+package com.wat.dao.impl;
+import com.wat.dao.ProductDAO;
+public class ProductDAOImpl implements   ProductDAO{
+	public ProductDAOImpl() {
+		// TODO Auto-generated constructor stub
+	}
+	public int addProduct() {
+		return 0;
+	}
+	
+}

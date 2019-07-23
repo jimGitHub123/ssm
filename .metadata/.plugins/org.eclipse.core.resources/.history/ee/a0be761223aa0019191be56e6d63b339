@@ -1,0 +1,10 @@
+package com.jim.beanFactory;
+
+import com.jim.service.PersonService;
+import com.jim.service.impl.PersonServiceBean;
+
+public class PersonServiceBeanFactory {
+        public   static    PersonServiceBean      createPersonServiceBean(){
+        	     return   new  PersonServiceBean();
+        }
+}

@@ -1,0 +1,5 @@
+package com.jim.bean;
+
+public class UserInfo {
+     private    String    name;
+}

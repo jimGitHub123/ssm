@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1563524849362_1" label="SpringDemo" name="SpringDemo">
+<item elementID="=Demo13Spring" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RemoteSystemsTempFiles" type="4"/>
+<item elementID="=Demo7Spring1AutowiredByNameByType" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo2SpringBeanFactory" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo8SpringAOPXML" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo9SpringAOPAnnotation" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo12Spring" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo6SpringSetListMapProperties" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo1SpringApplicationContext" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Servers" type="4"/>
+<item elementID="=Demo3SpringSetter" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo5SpringRefBean" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo11SpringJDBCTemplate" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo7Spring3PropertyEditor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo7SpringFieldAnnotation" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo7Spring2InitDestory" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo10SpringAOPAnnotationArgsReturn" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo4SpringConstructor" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1563537154560_4" label="SpringMVCDemo" name="SpringMVCDemo">
+<item elementID="=Demo3SpringMVCSSM" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo1SpringMVCController" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo2SpringMVCAnnotation" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1563537405880_10" label="MyBatisDemo" name="MyBatisDemo">
+<item elementID="=Demo9MyBatisOneToMany" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo11NiXiangTest" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo8MyBatis2OneToOne" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo1MyBatisSqlSession" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo5MyBatisResultMap" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo8MyBatisOneToOne" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo3MyBatisAlias" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo7MyBatisForeach" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo2MyBatisMapper" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo4MyBatisPOJO" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo10NiXiang" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Demo6MyBatisIf" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1563523650552_0" label="Window Working Set" name="Aggregate for window 1563523650551"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1563533040353_9" label="Multiple Working Sets" name="Aggregate:MyBatisDemo:springdemo:">
+<workingSet IMemento.internal.id="SpringDemo"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1563537213497_5" label="Multiple Working Sets" name="Aggregate:MyBatisDemo:springdemo:SpringMVC:">
+<workingSet IMemento.internal.id="SpringDemo"/>
+<workingSet IMemento.internal.id="SpringMVCDemo"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1563537319576_7" label="Multiple Working Sets" name="Aggregate:MyBatisDemo:SpringDemo:SpringMVC:">
+<workingSet IMemento.internal.id="SpringDemo"/>
+<workingSet IMemento.internal.id="SpringMVCDemo"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1563537408481_11" label="Multiple Working Sets" name="Aggregate:MyBatisDemo:MyBatisDemo1:SpringDemo:SpringMVCDemo:">
+<workingSet IMemento.internal.id="MyBatisDemo"/>
+<workingSet IMemento.internal.id="SpringDemo"/>
+<workingSet IMemento.internal.id="SpringMVCDemo"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1563547620666_16" label="Multiple Working Sets" name="Aggregate:MyBatisDemo:SpringDemo:SpringMVCDemo:">
+<workingSet IMemento.internal.id="MyBatisDemo"/>
+<workingSet IMemento.internal.id="SpringDemo"/>
+<workingSet IMemento.internal.id="SpringMVCDemo"/>
+</workingSet>
+<mruList name="SpringDemo"/>
+</workingSetManager>

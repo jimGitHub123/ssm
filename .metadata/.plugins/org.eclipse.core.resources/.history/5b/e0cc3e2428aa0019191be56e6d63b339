@@ -1,0 +1,16 @@
+package com.jim.test;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+/**
+ * 这个类是讲述自定义属性编辑器
+ * @author Administrator
+ *
+ */
+public class Test1 {
+    public static void main(String[] args) {
+	   ApplicationContext    applicationContext=new   ClassPathXmlApplicationContext("applicationContext.xml");
+	   applicationContext.getBean("")
+	}
+}

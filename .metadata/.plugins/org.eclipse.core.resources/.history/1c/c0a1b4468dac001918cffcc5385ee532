@@ -1,0 +1,14 @@
+package com.wat.bianchengshi;
+
+public class Test {
+         public static void main(String[] args) {
+			      new   Fei(){
+			    	     public void fei(){
+			    	    	    System.out.println("ÄäÃû·É");
+			    	     }
+			      };
+		}
+}
+interface   Fei{
+	    public   void  fei();
+}

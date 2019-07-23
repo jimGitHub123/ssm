@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;db_net1.sql&apos; to &apos;SQL&apos;" description="Move &apos;db_net1.sql&apos; to &apos;SQL&apos;" destination="SQL" element1="db_net1.sql" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1563805078126" updateReferences="true"/>
+</session>

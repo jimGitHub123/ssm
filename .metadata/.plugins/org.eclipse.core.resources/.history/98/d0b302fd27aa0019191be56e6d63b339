@@ -1,0 +1,11 @@
+package com.jim.test;
+/**
+ * 这个类是讲述自定义属性编辑器
+ * @author Administrator
+ *
+ */
+public class Test1 {
+       public static void main(String[] args) {
+		        
+	}
+}

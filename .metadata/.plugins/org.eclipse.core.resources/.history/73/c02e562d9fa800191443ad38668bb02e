@@ -1,0 +1,16 @@
+package com.wat.dao;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.wat.bean.Product;
+
+public class ProductDao {
+	     Product  product;//null
+	     public  void  setProduct(Product  product){
+	    	 this.product=product;
+	     }
+         public    void find(){
+        	      String  name=product.getName();
+        	      System.out.println("name="+name);
+         }
+}

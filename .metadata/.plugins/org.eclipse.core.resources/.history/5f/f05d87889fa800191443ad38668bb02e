@@ -1,0 +1,22 @@
+package com.wat.dao;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.wat.bean.Product;
+import com.wat.bean.User;
+
+/*
+ * @Autowired:按类型，属性名跟id名不一致没关系
+ */
+public class ProductDao {
+	     @Autowired
+	     Product  product;//null
+         User     user;
+         
+         
+	     public    void find(){
+        	      String  name=product.getName();
+        	      System.out.println("name="+name);
+         }
+         
+}

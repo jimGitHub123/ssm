@@ -1,0 +1,5 @@
+package com.jim.service.impl;
+
+public class PersonServiceBean {
+
+}

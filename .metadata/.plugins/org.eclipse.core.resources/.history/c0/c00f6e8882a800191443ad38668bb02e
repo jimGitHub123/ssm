@@ -1,0 +1,7 @@
+package com.wat.dao.impl;
+import com.wat.dao.ProductDAO;
+public class ProductDAOImpl implements   ProductDAO{
+	public int addProduct() {
+		return 0;
+	}
+}

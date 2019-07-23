@@ -1,0 +1,9 @@
+package com.jim.bean;
+
+
+public class UserInfo {
+     private    String    name;
+     private    char      sex;
+     private    Date      date;
+     
+}

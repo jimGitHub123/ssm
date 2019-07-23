@@ -1,0 +1,7 @@
+package com.wat.bean.factory;
+import com.wat.bean.Product;
+public class BeanFactory {
+        
+	
+	
+}

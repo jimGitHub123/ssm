@@ -1,0 +1,9 @@
+package com.jim.test;
+/**
+ * 这个类是讲述对bean的特殊处理
+ * @author Administrator
+ *
+ */
+public class Test1 {
+
+}
